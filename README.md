@@ -5,20 +5,24 @@ El cheapo syma drone modded with Raspberry pi zero w / Pi Camera v2.1 and monkma
 ![Drone](/img/fly_pi_final_result.jpg?raw=true "Drone")
 
 ## BOM
-Syma drone - Syma X5SC/X5SC-1 http://amzn.to/2mC9hP7
 
-Pi Zero W http://amzn.to/2ngRIYi
 
-Pi Camera v2.1 http://amzn.to/2mCuIPO
+| Items                             | Amazon Link            | Rough Cost |
+| --------------------------------- | ---------------------- |       ---: |
+| Syma drone - Syma X5SC/X5SC-1     | http://amzn.to/2mC9hP7 | £40        |
+| Pi Zero W                         | http://amzn.to/2ngRIYi | £10        |
+| Pi Camera v2.1                    | http://amzn.to/2mCuIPO | £20        |
+| Monkmakes RGB LED (aka the squid) | http://amzn.to/2mCmebz | £5         |
 
-Monkmakes RGB LED (aka the squid)http://amzn.to/2mCmebz
 
 ## Tools
-Soldering iron kit http://amzn.to/2mC21CQ
 
-Hot Glue gun http://amzn.to/2ngUxbL
+| Items                             | Amazon Link            | Rough Cost |
+| --------------------------------- | ---------------------- |       ---: |
+| Soldering iron kit                | http://amzn.to/2mC21CQ | £20        |
+| Hot Glue gun                      | http://amzn.to/2ngUxbL | £10        |
+| Dremel type multi-tool            | http://amzn.to/2ngYbT2 | £20        |
 
-Dremel type multi-tool http://amzn.to/2ngYbT2
 
 ## Method
 I've added a Pi Zero, Pi Camera and RGB LED to the drone. everything on the drone is powered from the original drone LIPO battery.
