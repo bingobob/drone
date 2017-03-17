@@ -33,16 +33,17 @@ I've added a Pi Zero, Pi Camera and RGB LED to the drone. everything on the dron
 
 Currently the rough flight sequence is as follows.
 
-1. drone is powered on (by connecting the cable to the on board lipo battery
+1. drone is powered on (by connecting the drone's lipo battery)
 2. pi zero boots
 3. pi zero launches the drone.py python script
 4. drone.py reads config variables in top of file
 5. drone.py activates the LEDs to indicate status to pilot
-6. after the green light, drone.py actvates video recording for specified time (default 2 mins)
-7. LEDs change to indicate video recording finished and photo sequence commencing
-8. Photo stage begins and camera takes a sequence of high resolution photos
-9. LED indicates python script has finished
-10. Pi shutdown command is issued (have disabled this currently)
+6. Take off
+7. After the green light, drone.py actvates video recording for specified time (default 2 mins)
+8. LEDs change to indicate video recording finished and photo sequence commencing
+9. Photo stage begins and camera takes a sequence of high resolution photos
+10. LED indicates python script has finished
+11. Pi shutdown command is issued (have disabled this currently)
 
 The Pi is on my home wifi network so after the flight I connect to the pi and SCP the files and videos off it.
 
