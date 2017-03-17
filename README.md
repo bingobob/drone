@@ -4,8 +4,11 @@ El cheapo syma drone modded with Raspberry pi zero w / Pi Camera v2.1 and monkma
 
 ![fly-pi](/img/fly_pi.jpg?raw=true "fly-pi")
 
-## Bill of materials
+## Summary
 
+I know a little bit of programming, a little pi, a little electronics and I've put it all together in this project - soldering has been a great skill to learn. It's been a heck of a lot of fun and I'm still working on it. I'd love to hear more from anyone with tips or code comments. This has got to be one of the most enjoyable pi projects I've done and it's inspired me to write this and publish it here - my first github repo.
+
+## Bill of materials
 
 | Items                             | Amazon Link            | Rough Cost |
 | --------------------------------- | ---------------------- |       ---: |
@@ -54,10 +57,6 @@ I've got many ideas for how to enhance this project but need to keep in mind wei
 - Yellow wire - there's a yellow wire running from the syma control board that was used with the original camera, you pressed a function on the remote control unit and it signalled to the camera to start / stop recording or take a photo. I wonder if it would be possible to connect this yellow wire to the Pi GPIO directly and have the remote unit send signals to the Pi, e.g. take a photo, or shutdown.
 - Access point, currently the pi zero w is set to connect as a client to my home wifi network, this works well however it might be more useful if I set it up as a wifi access point (a flying one)!
 - Airborn wifi network ESSID scanning, could be useful to scan for ESSIDs as the drone flies
-
-## Summary
-
-I know a little bit of programming, a little pi, a little electronics and I've put it all together in this project - soldering has been a great skill to learn. It's been a heck of a lot of fun and I'm still working on it. I'd love to hear more from anyone with tips or code comments. This has got to be one of the most enjoyable pi projects I've done and it's inspired me to write this and publish it here - my first github repo.
 
 ## drone on the bench
 
