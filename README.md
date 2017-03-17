@@ -2,7 +2,7 @@
 Syma drone with Raspberry Zero W and RGB LED
 El cheapo syma drone modded with Raspberry pi zero w / Pi Camera v2.1 and monkmakes RGB LED (aka the squid).
 
-![Drone](/img/fly_pi_final_result.jpg?raw=true "Drone")
+![fly-pi](/img/fly_pi.jpg?raw=true "fly-pi")
 
 ## Bill of materials
 
