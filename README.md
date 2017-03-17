@@ -4,13 +4,18 @@ El cheapo syma drone modded with Raspberry pi zero w / Pi Camera v2.1 and monkma
 
 ## BOM
 Syma drone - Syma X5SC/X5SC-1 http://amzn.to/2mC9hP7
+
 Pi Zero W http://amzn.to/2ngRIYi
+
 Pi Camera v2.1 http://amzn.to/2mCuIPO
+
 Monkmakes RGB LED (aka the squid)http://amzn.to/2mCmebz
 
 ## Tools
 Soldering iron kit http://amzn.to/2mC21CQ
+
 Hot Glue gun http://amzn.to/2ngUxbL
+
 Dremel type multi-tool http://amzn.to/2ngYbT2
 
 ## Method
