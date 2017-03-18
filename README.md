@@ -34,8 +34,8 @@ I've added a Pi Zero, Pi Camera and RGB LED to the drone. everything on the dron
 Currently the rough flight sequence is as follows.
 
 1. drone is powered on (by connecting the drone's lipo battery)
-2. pi zero boots
-3. pi zero launches the drone.py python script
+2. pi zero boots, as it's fed off the drone's power
+3. pi zero launches the drone.py python script (in the repo)
 4. drone.py reads config variables in top of file
 5. drone.py activates the LEDs to indicate status to pilot
 6. Take off
@@ -58,6 +58,8 @@ I've got many ideas for how to enhance this project but need to keep in mind wei
 - Yellow wire - there's a yellow wire running from the syma control board that was used with the original camera, you pressed a function on the remote control unit and it signalled to the camera to start / stop recording or take a photo. I wonder if it would be possible to connect this yellow wire to the Pi GPIO directly and have the remote unit send signals to the Pi, e.g. take a photo, or shutdown.
 - Access point, currently the pi zero w is set to connect as a client to my home wifi network, this works well however it might be more useful if I set it up as a wifi access point (a flying one)!
 - Airborn wifi network ESSID scanning, could be useful to scan for ESSIDs as the drone flies
+- some sort of more automated way to get the photos/ videos off the pi
+- maybe a light webserver and interface on the pi to access flight photos/ videos/ data post flight
 
 ## drone on the bench
 
