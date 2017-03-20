@@ -63,14 +63,15 @@ I've got many ideas for how to enhance this project but need to keep in mind wei
 
 ## drone on the bench
 
-![bench1](/img/bench1.jpg?raw=true "bench1")
-![bench2](/img/bench2.jpg?raw=true "bench2")
-![bench3](/img/bench3.jpg?raw=true "bench3")
-![bench4](/img/bench4.jpg?raw=true "bench4")
-![bench5](/img/bench5.jpg?raw=true "bench5")
+[<img src="/img/bench1.jpg?raw=true" alt="bench1" width="200">](https://github.com/bingobob/drone/blob/master/img/bench1.jpg)
+[<img src="/img/bench3.jpg?raw=true" alt="bench3" width="200">](https://github.com/bingobob/drone/blob/master/img/bench3.jpg)
+[<img src="/img/bench4.jpg?raw=true" alt="bench4" width="200">](https://github.com/bingobob/drone/blob/master/img/bench4.jpg)
+[<img src="/img/bench5.jpg?raw=true" alt="bench5" width="200">](https://github.com/bingobob/drone/blob/master/img/bench5.jpg)
 
 ## drone in flight
 
-![flight_pic1_road.jpg](/img/flight_pic1_road.jpg?raw=true "flight_pic1_road.jpg")
-![flight_pic2_football_match.jpg](/img/flight_pic2_football_match.jpg?raw=true "flight_pic2_football_match.jpg")
-![flying.jpg](/img/flying.jpg?raw=true "flying.jpg")
+[<img src="/img/flight_pic1_road.jpg?raw=true" alt="flight_pic1_road" width="200">](https://github.com/bingobob/drone/blob/master/img/flight_pic1_road.jpg)
+[<img src="/img/flight_pic2_football_match.jpg?raw=true" alt="flight_pic2_football_match" width="200">](https://github.com/bingobob/drone/blob/master/img/flight_pic2_football_match.jpg)
+[<img src="/img/flying.jpg?raw=true" alt="flying" width="200">](https://github.com/bingobob/drone/blob/master/img/flying.jpg)
+
+
