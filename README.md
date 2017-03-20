@@ -70,8 +70,7 @@ I've got many ideas for how to enhance this project but need to keep in mind wei
 
 ## drone in flight
 
-[<img src="/img/flight_pic1_road.jpg?raw=true" alt="flight_pic1_road" width="200">](https://github.com/bingobob/drone/blob/master/img/flight_pic1_road.jpg)
-[<img src="/img/flight_pic2_football_match.jpg?raw=true" alt="flight_pic2_football_match" width="200">](https://github.com/bingobob/drone/blob/master/img/flight_pic2_football_match.jpg)
-[<img src="/img/flying.jpg?raw=true" alt="flying" width="200">](https://github.com/bingobob/drone/blob/master/img/flying.jpg)
-
+[<img src="/img/flight_pic1_road.jpg?raw=true" alt="flight_pic1_road" width="250">](https://github.com/bingobob/drone/blob/master/img/flight_pic1_road.jpg)
+[<img src="/img/flight_pic2_football_match.jpg?raw=true" alt="flight_pic2_football_match" width="250">](https://github.com/bingobob/drone/blob/master/img/flight_pic2_football_match.jpg)
+[<img src="/img/flying.jpg?raw=true" alt="flying" width="250">](https://github.com/bingobob/drone/blob/master/img/flying.jpg)
 
