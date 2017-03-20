@@ -27,22 +27,22 @@ I know a little bit of programming, a little pi, a little electronics and I've p
 | Dremel type multi-tool            | http://amzn.to/2ngYbT2 | £20        |
 
 
-## Method
+## Method and how it works
 
-I've added a Pi Zero, Pi Camera and RGB LED to the drone. everything on the drone is powered from the original drone LIPO battery.
+I've added a Pi Zero, Pi Camera and RGB LED to the drone. Everything on the drone is powered from the original drone LIPO battery. To power the Pi Zero I soldered a positive and negative wire from the Pi GPIO header (5V header and ground) directly to the Drone controller board. Pi Camera is connected to the Pi Zero with a Pi Zero ribbon cable, I had to fold it over to get it to fit but seems to work fine. The RGB LED (monkmakes squid) is connected as per this excellent [guide](https://github.com/simonmonk/squid).
 
 Currently the rough flight sequence is as follows.
 
-1. drone is powered on (by connecting the drone's lipo battery)
+1. drone is powered on (by connecting the drone's lipo battery cable)
 2. pi zero boots, as it's fed off the drone's power
-3. pi zero launches the drone.py python script (in the repo)
-4. drone.py reads config variables in top of file
-5. drone.py activates the LEDs to indicate status to pilot
+3. pi zero launches the [drone.py](https://github.com/bingobob/drone/blob/master/drone.py) python script
+4. [drone.py](https://github.com/bingobob/drone/blob/master/drone.py) reads config variables in top of file
+5. [drone.py](https://github.com/bingobob/drone/blob/master/drone.py) activates the LEDs to indicate status to pilot
 6. Take off
 7. After the green light, drone.py actvates video recording for specified time (default 2 mins)
 8. LEDs change to indicate video recording finished and photo sequence commencing
 9. Photo stage begins and camera takes a sequence of high resolution photos
-10. LED indicates python script has finished
+10. LED indicates python script nearly finished
 11. Pi shutdown command is issued (have disabled this currently)
 
 The Pi is on my home wifi network so after the flight I connect to the pi and SCP the files and videos off it.
