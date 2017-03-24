@@ -50,15 +50,16 @@ The Pi is on my home wifi network so after the flight I connect to the pi and SC
 
 I've got many ideas for how to enhance this project but need to keep in mind weight at all times. I think I'm at the limit of the payload for this drone as it is. However I'd like to investigate the following.
 
-- GPS module, would be great to add altitude figures to the images/videos and perhaps add these to the flight log
-- Barometer maybe use this instead of the GPS module, lighter and cheaper although less accurate I believe
-- Try the whole thing on a different drone - I beleive the X8C is more powerful
-- Add buttons / switches to the pi to allow it to be shutdown elegantly by the user
-- Yellow wire - there's a yellow wire running from the syma control board that was used with the original camera, you pressed a function on the remote control unit and it signalled to the camera to start / stop recording or take a photo. I wonder if it would be possible to connect this yellow wire to the Pi GPIO directly and have the remote unit send signals to the Pi, e.g. take a photo, or shutdown.
-- Access point, currently the pi zero w is set to connect as a client to my home wifi network, this works well however it might be more useful if I set it up as a wifi access point (a flying one)!
-- Airborn wifi network ESSID scanning, could be useful to scan for ESSIDs as the drone flies
-- Some sort of more automated way to get the photos/ videos off the pi
-- Maybe a light webserver and interface on the pi to access flight photos/ videos/ data post flight
+- GPS module or barometer, primarily for altitude data
+- Real time clock module
+- Different drone - X8C more powerful
+- Buttons/ switches to allow pi to be shutdown properly
+- Make the pi a wifi access point rather than a wifi client
+- Airborn wifi network ESSID scanner
+- Automate getting the photos/ videos off the pi
+- Light webserver and interface to access photos/ videos/ data
+
+Yellow wire - there's a yellow wire running from the syma control board that was used with the original camera, you pressed a function on the remote control unit and it signalled to the camera to start / stop recording or take a photo. I wonder if it would be possible to connect this yellow wire to the Pi GPIO directly and have the remote unit send signals to the Pi, e.g. take a photo, or shutdown.
 
 ## drone on the bench
 
