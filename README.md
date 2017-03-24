@@ -1,6 +1,6 @@
 # Raspberry Pi Drone Project
 Syma drone with Raspberry Zero W and RGB LED
-El cheapo syma drone modded with Raspberry pi zero w / Pi Camera v2.1 and monkmakes RGB LED (aka the squid).
+El cheapo syma drone modded with Raspberry pi zero w / Pi Camera v2.1 and monkmakes RGB LED (aka the [squid](https://github.com/simonmonk/squid)).
 
 ![fly-pi](/img/fly_pi.jpg?raw=true "fly-pi")
 
@@ -12,19 +12,19 @@ I know a little bit of programming, a little pi, a little electronics and I've p
 
 | Items                             | Amazon Link            | Rough Cost |
 | --------------------------------- | ---------------------- |       ---: |
-| Syma drone - Syma X5SC/X5SC-1     | http://amzn.to/2mC9hP7 | £40        |
+| Syma drone - X5SC-1               | http://amzn.to/2mC9hP7 | £40        |
 | Pi Zero W                         | http://amzn.to/2ngRIYi | £10        |
 | Pi Camera v2.1                    | http://amzn.to/2mCuIPO | £20        |
-| Monkmakes RGB LED (aka the squid) | http://amzn.to/2mCmebz | £5         |
+| Monkmakes RGB LED                 | http://amzn.to/2mCmebz | £5         |
 
 
 ## Tools
 
 | Items                             | Amazon Link            | Rough Cost |
 | --------------------------------- | ---------------------- |       ---: |
-| Soldering iron kit                | http://amzn.to/2mC21CQ | £20        |
-| Hot Glue gun                      | http://amzn.to/2ngUxbL | £10        |
-| Dremel type multi-tool            | http://amzn.to/2ngYbT2 | £20        |
+| Soldering iron                    | http://amzn.to/2mC21CQ | £20        |
+| Glue gun                          | http://amzn.to/2ngUxbL | £10        |
+| Multi-tool                        | http://amzn.to/2ngYbT2 | £20        |
 
 
 ## Method and how it works
