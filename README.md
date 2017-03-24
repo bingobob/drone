@@ -1,6 +1,5 @@
 # Raspberry Pi Drone Project
-Syma drone with Raspberry Zero W and RGB LED
-El cheapo syma drone modded with Raspberry pi zero w / Pi Camera v2.1 and monkmakes RGB LED (aka the [squid](https://github.com/simonmonk/squid)).
+Syma drone with Raspberry Zero W and RGB LED - syma drone modded with raspberry pi zero w, pi Camera v2.1 and monkmakes RGB LED (aka the [squid](https://github.com/simonmonk/squid)). Who needs a DJI phantom X for £££ when you can have this, much more fun?
 
 ![fly-pi](/img/fly_pi.jpg?raw=true "fly-pi")
 
@@ -27,7 +26,7 @@ I know a little bit of programming, a little pi, a little electronics and I've p
 | Multi-tool                        | http://amzn.to/2ngYbT2 | £20        |
 
 
-## Method and how it works
+## How it works
 
 I've added a Pi Zero, Pi Camera and RGB LED to the drone. Everything on the drone is powered from the original drone LIPO battery. To power the Pi Zero I soldered a positive and negative wire from the Pi GPIO header (5V header and ground) directly to the Drone controller board. Pi Camera is connected to the Pi Zero with a Pi Zero ribbon cable, I had to fold it over to get it to fit but seems to work fine. The RGB LED (monkmakes squid) is connected as per this excellent [guide](https://github.com/simonmonk/squid).
 
